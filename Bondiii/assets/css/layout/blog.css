@@ -1,0 +1,67 @@
+.blog {
+	font-family: 'robotoblack';
+}
+
+.blog-body {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.blog-body-item {
+	max-width: 370px;
+	margin: 60px 10px 60px 0;
+}
+
+.blog-body-item img {
+	margin-bottom: 18px;
+}
+
+.blog-body-item span {
+	font-size: 13px;
+	margin-bottom: 12px;
+}
+
+.blog-body-item p {
+	max-width: 370px;
+	font-size: 20px;
+}
+
+/*Subscribe*/
+.blog-footer {
+	background-color: #ffc400;
+}
+
+.blog-footer span {
+	font-size: 20px;
+	color: #1a2940;
+	margin: 40px 40px 34px 40px;
+}
+
+.form-group input {
+	border: none;
+	border-bottom: 1px solid #fff;
+	outline: none;
+}
+
+.form-control {
+	font-size: 20px;
+	min-width: 440px;
+	height: 45px;
+	margin: 30px 30px 25px 0;
+	background-color: transparent;
+}
+
+.subscribe-form .form-group .submit {
+	width: 200px;
+	height: 45px;
+	margin: 0 87px 22px 30px; 
+	border: none;
+	border-radius: 50px;
+	outline: none;
+	color: #ffc501;
+}
+
+::placeholder {
+	color: #fff;
+}

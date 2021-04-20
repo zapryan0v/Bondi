@@ -1,0 +1,53 @@
+.header-inner {
+	display: flex;
+	justify-content: space-between;
+	font-family: 'robotoblack', 'Font Awesome';
+	padding-top: 17px;
+}
+
+.header-inner .logo img {
+	display: inline-block;
+	box-sizing: border-box;
+}
+
+.nav ul li a:hover {
+	color: #05a7a6;
+}
+
+.header-inner span {
+	color: #00c6bf;
+	margin-right: 22px;
+	font-size: 20px;
+}
+
+.header-inner span:before {
+	content: '|';
+	display: inline-block;
+	position: relative;
+	right: 24px;
+}
+
+/*Navigation button*/
+.header-inner button {
+	min-width: 110px;
+	height: 40px;
+	padding: 7px 34px;
+}
+
+/*Intro*/
+.intro-body {
+	font-family: 'robotoblack';
+	padding-top: 126px;
+	padding-bottom: 35px;
+}
+
+.intro-body h1 {
+	text-align: center;
+	font-size: 51px;
+	margin-bottom: 10px;
+	letter-spacing: 2px;
+}
+
+.intro .intro-body p {
+	text-align: center;	
+}

@@ -1,0 +1,33 @@
+.about_us {
+	font-family: "robotoblack";
+}
+
+.about_us-head p {
+	text-align: center;
+	margin: 22px auto 55px auto;
+	max-width: 572px;
+	height: 61px;
+	font-size: 15px;
+	margin-bottom: 55px;	
+}
+
+.about_us-body h2 {
+	font-size: 35px;
+	color: #1a2940;
+	font-weight: 500;
+	margin-bottom: 22px;
+}
+
+.about_us-body p {
+	width: 386px;
+	font-size: 15px;
+	margin-bottom: 22px;
+}
+
+.about_us-body button {
+	margin: 0;
+}
+
+.about_us-body img {
+	box-sizing: border-box;
+}

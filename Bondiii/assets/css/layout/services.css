@@ -1,0 +1,38 @@
+.services-body {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	font-family: 'robotoblack';
+}
+
+.services-item {
+	position: relative;
+	text-align: center;
+}
+
+.services-item span {
+	position: relative;
+	font-size: 250px;
+	color: #eff7fa;	
+}
+
+.services-item img {
+	position: absolute;
+	top: 61%; 
+	left: 50%;
+	transform: translate(-50%);
+	box-sizing: border-box;
+}
+
+.services-item h4 {
+	font-size: 20px;
+	font-weight: 500;
+	text-transform: uppercase;
+}
+
+.services-item p {
+	width: 303px;
+	height: 74px;
+	font-size: 15px;
+}

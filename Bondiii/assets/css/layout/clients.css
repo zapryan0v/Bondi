@@ -1,0 +1,8 @@
+.clients {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	padding-top: 57px;
+	padding-bottom: 54px;
+}

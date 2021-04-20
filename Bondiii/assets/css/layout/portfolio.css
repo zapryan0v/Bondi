@@ -1,0 +1,32 @@
+.portfolio-inner-nav ul {
+	padding: 60px;
+	justify-content: center;
+}
+
+.portfolio-inner-nav ul li a {
+	padding: 14px;
+}
+
+.portfolio-inner-nav ul li a:hover {
+	background-color: #ff3150;
+}
+
+.portfolio-inner-nav ul li.active a,
+.portfolio-inner-nav a:hover  {
+	background-color: #ff3150;
+	color: #ffc501;
+	border: none;
+	border-radius: 15px;
+}
+
+.portfolio-body {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.portfolio-body-item {
+	margin-bottom: 10px;
+}
+
+

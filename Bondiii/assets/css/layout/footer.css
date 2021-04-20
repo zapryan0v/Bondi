@@ -1,0 +1,52 @@
+.footer {
+	font-family: 'Font Awesome', 'robotoblack';
+}
+
+.footer-inner {
+	margin: 57px 50px 30px 0;
+}
+
+.footer-inner img {
+	margin-bottom: 27px;
+}
+
+.footer-inner h4 {
+	font-size: 15px;
+	color: #f0f8fb;
+	margin-bottom: 25px;
+}
+
+.footer-inner p {
+	font-size: 13px;
+	color: #a8b9c0;
+	width: 368px;
+	margin-bottom: 75px;
+}
+
+.footer-inner em {
+	color: #06a09f;
+}
+
+.footer-inner p strong {
+	color: #ffc501;
+}
+
+.footer-inner button {
+	width: 370px;
+	color: #fff;
+} 
+
+.footer-inner i {
+	color: #fff;
+	font-size: 20px;
+	padding-right: 10px;
+}
+
+.footer-inner-nav ul {
+	flex-direction: column;
+}
+
+.footer-inner-nav ul li {
+	text-align: left;
+	margin: 13px 0;
+}
